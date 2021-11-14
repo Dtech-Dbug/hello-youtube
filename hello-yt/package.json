@@ -3,6 +3,7 @@
   "displayName": "hello-yt",
   "description": "Search for Youtube Videos from within Visual Studio Code",
   "version": "0.0.1",
+  "type" : "modules",
   "engines": {
     "vscode": "^1.62.0"
   },
